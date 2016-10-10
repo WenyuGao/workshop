@@ -1,5 +1,3 @@
 commander: touch *.txt: find *.txt
 
 hello. 
-
-new test from Jia Liu
