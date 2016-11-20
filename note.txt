@@ -1,0 +1,3 @@
+commander: touch *.txt: find *.txt
+be careful about branching
+braching chages directory
